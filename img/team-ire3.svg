@@ -539,6 +539,6 @@
 			/>
 	</g>
 </g>
-<image width="600" height="649" href="joe-smith.png"  transform="matrix(0.188 0 0 0.188 223 13)">
+<image width="500" height="500" xlink:href="joe-smith.png"  transform="matrix(0.188 0 0 0.188 223 13)">
 </image>
 </svg>
